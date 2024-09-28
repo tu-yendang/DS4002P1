@@ -20,8 +20,10 @@ Scripts contain one subfolder called SentimentAnalysis. This folder contain 6 .i
 
 ## Section 3: Reproducing Results Instructions
  Instructions for reproducing your results. In this section, you should give explicit step-by-step instructions to reproduce the Results of your study. These instructions should be written in straightforward plain English, but they must be concise, but detailed and precise enough, to make it possible for an interested user to reproduce your results without much difficulty. N.B. This section will be crucial for the CS1 assignment, where you'll be required to reproduce the results of other groups. Therefore, make sure to explain this section thoroughly.
+ To reproduce these results, 
 
- ## References: (these can also be found directly in code where used)
+ ## References:
+ *these can also be found directly in code where used*
 [1] L. Geetha, “Vader: A Comprehensive Guide to Sentiment Analysis in Python,” Medium, Feb. 28, 2023. https://medium.com/@rslavanyageetha/vader-a-comprehensive-guide-to-sentiment-analysis-in-python-c4f1868b0d2e
 
 [2] “Adding new column to existing DataFrame in Pandas,” GeeksforGeeks, Dec. 11, 2018. https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas/
