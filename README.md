@@ -28,9 +28,9 @@ Scripts contain one subfolder called SentimentAnalysis. This folder contain 6 .i
 
 [2] “Adding new column to existing DataFrame in Pandas,” GeeksforGeeks, Dec. 11, 2018. https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas/
 ‌
-[3]“Dataframe to CSV – How to Save Pandas Dataframes by Exporting,” freeCodeCamp.org, Mar. 24, 2023. https://www.freecodecamp.org/news/dataframe-to-csv-how-to-save-pandas-dataframes-by-exporting/#:~:text=to_csv()%20Method-
+[3] “Dataframe to CSV – How to Save Pandas Dataframes by Exporting,” freeCodeCamp.org, Mar. 24, 2023. https://www.freecodecamp.org/news/dataframe-to-csv-how-to-save-pandas-dataframes-by-exporting/#:~:text=to_csv()%20Method-
 ‌
-[4]“python - Extracting specific selected columns to new DataFrame as a copy,” Stack Overflow. https://stackoverflow.com/questions/34682828/extracting-specific-selected-columns-to-new-dataframe-as-a-copy
+[4] “python - Extracting specific selected columns to new DataFrame as a copy,” Stack Overflow. https://stackoverflow.com/questions/34682828/extracting-specific-selected-columns-to-new-dataframe-as-a-copy
 
-[5]“Basic pie chart — Matplotlib 3.3.4 documentation,” matplotlib.org. https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html
+[5] “Basic pie chart — Matplotlib 3.3.4 documentation,” matplotlib.org. https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html
 ‌
