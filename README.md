@@ -9,6 +9,15 @@ Data Science Capstone Project 1 - The Keith Lee Effect
 The type(s) of software you used for the project.
 ## Section 2: Documentation Map
 Section 2: A Map of your documentation. In this section, you should provide an outline or tree illustrating the hierarchy of folders and subfolders contained in your Project Folder, and listing the files stored in each folder or subfolder.
+
+This Project Folder contains three folder. Those folders are DATA, OUTPUT, and SCRIPTS.
+
+In the Data folder, there are two subfolders: datasets and final data analyzed. Datasets contain 6 subfolders for the data found of the 6 restaurants that we collected data for. These folders are Calabash African Kitchen, Frankensons, Jamaican Jerk Biz, Joe's Pizza, Popping Yolk, and Thick and Thin. Each of these folders contain two csv files. One csv file is the date and written text of Yelp reviews before Keith Lee made a review for that restaurant and the second csv file is the date and written text of Yelp reviews after Keith Lee made a review for that restaurant. The csv files in datasets were used to create the csv files in final data analyzed. Final data analyzed also contains 6 subfolders: Calabash African Kitchen, Frankensons, Jamaican Jerk Biz, Joe's Pizza, Popping Yolk, and Thick and Thin Treat Bar. Each folder has two csv files. Each folder is identical to the folders in datasets, except each csv file now has an additional column that contains the sentiment analysis score of the written text of the review. 
+
+Outputs contain one subfolder called Pie Charts. This folder contains 6 sub folders: Calabash African Kitchen, Frankensons, Jamaican Jerk Biz, Joe's Pizza, Popping Yolk, and Thick and Thin. Each folder contains two images of pie charts. One pie chart is the ratio of positive and negative reviews left on Yelp before Keith Lee left a review for that restaurant and the other is the  ratio of positive and negative reviews left on Yelp after Keith Lee left a review for that restaurant.
+
+Scripts contain one subfolder called SentimentAnalysis. This folder contain 6 .ipynb files: CalabashAfricanKitchen.ipynb, Frankensons.ipynb, JamaicanJerkBiz.ipynb, JoesPizza.ipynb, PoppingYolk, and ThicknThin.ipynb. These all contain the code that was used to calculate the sentiment analysis scores of all the Yelp reviews left for the restaurant and added those values to the original dataset.
+
 ## Section 3: Reproducing Results Instructions
  Instructions for reproducing your results. In this section, you should give explicit step-by-step instructions to reproduce the Results of your study. These instructions should be written in straightforward plain English, but they must be concise, but detailed and precise enough, to make it possible for an interested user to reproduce your results without much difficulty. N.B. This section will be crucial for the CS1 assignment, where you'll be required to reproduce the results of other groups. Therefore, make sure to explain this section thoroughly.
 
